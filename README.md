@@ -1,4 +1,4 @@
-# 🚀 API IA + Data Warehouse
+# API IA + Data Warehouse
 
 API desarrollada en Python que integra **FastAPI, SQL Server y OpenAI** para consultar datos de un Data Warehouse y generar automáticamente **análisis de negocio en lenguaje natural con formato ejecutivo**.
 
