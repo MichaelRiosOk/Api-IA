@@ -110,17 +110,15 @@ POST /indicadores/explicar
 
 ```
 Resumen ejecutivo:
-Alta concentración de órdenes en pocos estados...
+La distribución de órdenes de trabajo revela patrones claros de demanda regional, con oportunidades de expansión estratégica.
 
 Hallazgos:
-- Estado X concentra el mayor volumen
-- Se observa disminución mensual en...
-
-Alertas:
-- Presencia significativa de registros sin clasificación
+- Región A concentra el 40% del volumen total, indicando alta actividad operativa.
+- Se observa un crecimiento del 15% en órdenes mensuales en las últimas semanas.
+- Región B muestra potencial de escalabilidad con bajo volumen actual.
 
 Conclusión:
-Oportunidad de mejora en calidad de datos y gestión operativa
+Ideal para priorizar inversiones en logística y optimizar la asignación de recursos en mercados clave.
 ```
 
 ---
