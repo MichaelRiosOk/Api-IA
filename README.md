@@ -106,7 +106,7 @@ POST /indicadores/explicar
 
 ---
 
-## 🧠 Ejemplo de salida
+## Ejemplo de salida
 
 ```
 Resumen ejecutivo:
