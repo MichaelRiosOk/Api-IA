@@ -106,7 +106,7 @@ POST /indicadores/explicar
 
 ---
 
-## Ejemplo de salida
+## Ejemplo de salida con datos de prueba (ficticios)
 
 ```
 Resumen ejecutivo:
@@ -120,6 +120,8 @@ Hallazgos:
 Conclusión:
 Ideal para priorizar inversiones en logística y optimizar la asignación de recursos en mercados clave.
 ```
+
+*Nota: este ejemplo es ilustrativo y no corresponde a datos reales.*
 
 ---
 
