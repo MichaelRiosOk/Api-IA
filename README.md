@@ -93,7 +93,7 @@ POST /indicadores/explicar
 ```json
 {
   "dataset": "ot_por_estado",
-  "prompt": "Analizá la distribución de órdenes de trabajo"
+  "prompt": "Analiza la distribución de órdenes de trabajo por región y identifica oportunidades de expansión"
 }
 ```
 
